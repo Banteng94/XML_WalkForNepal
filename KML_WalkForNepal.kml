@@ -1128,32 +1128,5 @@
         </coordinates>
       </LineString>
     </Placemark>
-    <Placemark>
-      <name>Luxembourg</name>
-      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          6.1095418,49.7502303,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Nepal</name>
-      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          85.3556266,27.6869102,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Position</name>
-      <styleUrl>#icon-1596-A52714-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          6.1076455,49.7508106,0
-        </coordinates>
-      </Point>
-    </Placemark>
   </Document>
 </kml>
